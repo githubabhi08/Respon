@@ -1,0 +1,285 @@
+/* laptop L */
+
+@media screen and (max-width:1490px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: 2.7rem;
+    
+  }
+  
+  .cola{
+    background-color: blue;
+    top: 1.7rem;
+    position: relative;
+    height: 5rem;
+  }
+  
+  
+
+  .item{
+    font-size: 22px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 39rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Laptop 1024px */
+
+@media screen and (max-width:1024px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: 2.7rem;
+    
+  }
+  
+  .cola{
+    background-color: rgb(255, 94, 0);
+    top: 1.7rem;
+    position: relative;
+    height: 5rem;
+  }
+  
+  
+  .item{
+    font-size: 22px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 15rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+  
+
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* medium 768px */
+
+@media screen and (max-width:768px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: .7rem;
+    
+  }
+  
+  .cola{
+    background-color: rgb(233, 249, 7);
+    top: 1.7rem;
+    position: relative;
+    height: 5rem;
+  }
+  
+  
+  .item{
+    font-size: 10px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 27rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+/* medium 425px */
+
+@media screen and (max-width:435px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: .7rem;
+    
+  }
+  
+  .cola{
+    background-color: rgb(249, 7, 205);
+    top: 1.7rem;
+    position: relative;
+    height: 5rem;
+  }
+  
+  
+  .item{
+    font-size: 8px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 9rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+  
+ 
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:385px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: .7rem;
+    
+  }
+  
+  .cola{
+    background-color: rgb(7, 249, 19);
+    top: 1.7rem;
+    position: relative;
+    height: 5rem;
+  }
+  
+  
+  .item{
+    font-size: 7px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 7rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:335px){
+  .navba{
+    display: flex;
+    flex-direction: row;
+    gap: .7rem;
+    
+  }
+  
+  
+  .item{
+    font-size: 5px;
+    list-style: none;
+    color:rgb(215, 7, 24);
+    font-weight: 700;
+    position: relative;
+    left: 8rem;
+    top: 1.7rem;
+  
+  } 
+  
+  
+  
+  .colo{
+    background-color: red;
+    gap: 2rem;
+    display: flex;
+  }
+}
